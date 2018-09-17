@@ -2,7 +2,7 @@
   "name": "portfolio-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://codingdcode.github.io/portfolio-home",
+  "homepage": "https://ccarrasco.me",
   "dependencies": {
     "aos": "^2.3.3",
     "bootstrap": "^4.1.3",
